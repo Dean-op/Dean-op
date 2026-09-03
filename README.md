@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Dean 👋</h1>
+<h1 align="left">Hi there, I'm Dean</h1>
 
 <p align="left">
   <strong>AI / LLM Agent Developer & Full-Stack Engineer</strong><br/>
@@ -49,7 +49,7 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Dean-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="Dean's GitHub Stats" />
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=Dean-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="Dean's GitHub Stats" /> -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dean-op&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
