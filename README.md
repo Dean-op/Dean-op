@@ -17,7 +17,6 @@
 - 🔭 Currently focusing on building high-performance & scalable applications.
 - 🌱 Exploring modern cloud-native architectures, developer tooling, and AI integration.
 - 💬 Ask me about full-stack engineering, web performance, or open-source tooling.
-- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
 
 ---
 
@@ -34,8 +33,8 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dean-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="Dean's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dean-op&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Dean-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="Dean's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dean-op&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
