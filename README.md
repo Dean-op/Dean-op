@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="left">Hi there, I'm Dean 👋</h1>
 
-<!--
-**Dean-op/Dean-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <strong>A passionate developer committed to clean code, robust architecture, and open-source exploration.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/Dean-op"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently focusing on building high-performance & scalable applications.
+- 🌱 Exploring modern cloud-native architectures, developer tooling, and AI integration.
+- 💬 Ask me about full-stack engineering, web performance, or open-source tooling.
+- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,python,go,docker,git,linux,vscode" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dean-op&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="Dean's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dean-op&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dean-op/Dean-op/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dean-op/Dean-op/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dean-op/Dean-op/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+<p align="center">
+  <sub>⭐️ Designed with a clean & minimalist aesthetic · Powered by <a href="https://github.com/Dean-op">Dean-op</a></sub>
+</p>
