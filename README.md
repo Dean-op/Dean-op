@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <sub>⭐️ Designed with a clean & minimalist aesthetic · Powered by <a href="https://github.com/Dean-op">Dean-op</a></sub>
+  <sub>Powered by <a href="https://github.com/Dean-op">Dean-op</a></sub>
 </p>
