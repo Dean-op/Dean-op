@@ -7,8 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/Dean-op"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Open_to_Collaborate-2ea44f?style=flat-square" alt="Status"/></a>
+  <a href="mailto:dean256969@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -27,7 +26,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,vue,vite,mysql,postgres,redis,docker,linux,git,maven,idea,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,fastapi,spring,vue,vite,electron,mysql,postgres,redis,docker,linux,git,maven,vim" alt="Tech Stack" />
   </a>
 </p>
 
